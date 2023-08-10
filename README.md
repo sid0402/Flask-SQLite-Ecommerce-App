@@ -1,0 +1,2 @@
+# Ecommerce App using Flask and SQLite 
+This project is an e-commerce application that mimics the sale of stationary. The application was developed to improve my skills with building Flask APIs and working with databases. I have used SQLIite as my database software.
